@@ -1,0 +1,17 @@
+﻿  Source.cpp
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(22,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(28,23): warning C4305: аргумент: усечение из "double" в "float"
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(51,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(51,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(66,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(98,18): warning C4305: +=: усечение из "double" в "float"
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(132,18): warning C4305: +=: усечение из "double" в "float"
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(167,26): warning C4305: аргумент: усечение из "double" в "float"
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(171,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(176,26): warning C4305: аргумент: усечение из "double" в "float"
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(184,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(184,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(191,17): warning C4305: +=: усечение из "double" в "float"
+D:\KFU\Programming\CourseWork\Code\main\main\Source.cpp(230,15): warning C4305: +=: усечение из "double" в "float"
+  main.vcxproj -> D:\KFU\Programming\CourseWork\Code\main\Debug\main.exe
